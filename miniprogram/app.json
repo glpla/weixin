@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/aboutme/aboutme"
+  ],
+  "window": {
+    "backgroundColor": "#F06",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F06",
+    "navigationBarTitleText": "BigTree",
+    "navigationBarTextStyle": "white"
+  },
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,7 @@
+<view>
+  <van-button bindtap="uploadImg">上传图片(3张)</van-button>
+  <van-button type='warning' bindtap="submit">提交</van-button>
+</view>
+<view class='img-box'>
+  <image wx:for='{{imgs}}' wx:key='' src="{{item}}" mode="widthFix"></image>
+</view>

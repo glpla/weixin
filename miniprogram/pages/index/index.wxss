@@ -1,0 +1,11 @@
+.img-box {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 10rpx;
+}
+
+.img-box image {
+  width: 240rpx;
+  margin-bottom: 10rpx;
+}
